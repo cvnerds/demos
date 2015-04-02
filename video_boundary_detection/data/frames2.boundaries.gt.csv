@@ -1,0 +1,16 @@
+# frame start, frame end, boundary type
+000100.jpg,-1,hard
+000324.jpg,-1,hard
+000433.jpg,-1,hard
+000633.jpg,-1,hard
+000816.jpg,-1,hard
+000838.jpg,000852.jpg,fade
+000943.jpg,-1,hard
+001236.jpg,-1,hard
+001346.jpg,-1,hard
+001575.jpg,-1,hard
+001773.jpg,-1,hard
+001817.jpg,001831.jpg,fade
+001893.jpg,001911.jpg,fade
+002193.jpg,002244.jpg,fade
+002648.jpg,-1,hard
